@@ -1,0 +1,3 @@
+[submodule "thirdparty/polyvox"]
+	path = thirdparty/polyvox
+	url = https://bitbucket.org/volumesoffun/polyvox.git
